@@ -4,6 +4,10 @@
  heroku-nodejs-JK
 ========================
 
+> Automatic deploys from  master are enabled
+> Heroku gateway-1 ---> heroku app
+
+
 ## HEROKU BASIC 
  `heroku create`
  `git push heroku master`
