@@ -1,4 +1,5 @@
 ![Node.js CI](https://github.com/shivanahmady/heroku-jk/workflows/Node.js%20CI/badge.svg?branch=master)
+![.github/workflows/blank.yml](https://github.com/shivanahmady/heroku-nodejs-jk/workflows/.github/workflows/blank.yml/badge.svg)
 
  heroku-nodejs-JK
 ========================
